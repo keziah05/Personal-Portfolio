@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif; /* A clean, readable font */
+    margin: 20px; /* Add some spacing around the content */
+    background-color: #f4f4f4; /* A light grey background */
+    color: #333; /* Dark grey text for readability */
+  }
+  
+  header {
+    background-color: #333; /* Dark background for the header */
+    color: white; /* White text on the header */
+    padding: 20px;
+    text-align: center; /* Center the header content */
+    margin-bottom: 20px; /* Space below the header */
+  }
+  
+  header h1 {
+    margin-bottom: 5px; /* Less space below the main heading */
+  }
+  
+  hr {
+    border: 1px solid #ccc; /* A subtle horizontal line */
+    margin: 15px 0; /* Space above and below the line */
+  }
+  
+  h2 {
+    color: #333; /* Dark color for section headings */
+    margin-top: 30px; /* More space above headings to separate sections */
+    border-bottom: 2px solid #333; /* Underline for headings */
+    padding-bottom: 5px;
+  }
+  
+  table {
+    width: 100%; /* Make the table take full width */
+    border-collapse: collapse; /* Single border for the table */
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd; /* Light grey borders for cells */
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #333; /* Dark background for table header */
+    color: white;
+  }
+  
+  ol, ul {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-left: 20px; /* Indentation for lists */
+  }
+  
+  li {
+    margin-bottom: 5px; /* Space between list items */
+  }
+  
+  b {
+    font-weight: bold; /* Make bold text stand out */
+  }
+  .contact-bar {
+    /* ... other styles ... */
+    justify-content: center; /* Center items horizontally */
+    /* ... other styles ... */
+}
